@@ -1,0 +1,7 @@
+input_0,output_0
+input_2020-09-24-16-07-13.png,"{'confidences': [{'confidence': 0.7500967979431152, 'label': 'rain'}, {'confidence': 0.0327896811068058, 'label': 'smiley face'}, {'confidence': 0.03139142692089081, 'label': 'stitches'}], 'label': 'rain'}"
+input_2020-09-24-16-07-42.png,"{'confidences': [{'confidence': 0.23749902844429016, 'label': 'power outlet'}, {'confidence': 0.1927587240934372, 'label': 'line'}, {'confidence': 0.03723859414458275, 'label': 'smiley face'}], 'label': 'power outlet'}"
+input_2020-09-24-16-07-43.png,"{'confidences': [{'confidence': 0.23749902844429016, 'label': 'power outlet'}, {'confidence': 0.1927587240934372, 'label': 'line'}, {'confidence': 0.03723859414458275, 'label': 'smiley face'}], 'label': 'power outlet'}"
+input_2020-09-24-16-07-43.png,"{'confidences': [{'confidence': 0.23749902844429016, 'label': 'power outlet'}, {'confidence': 0.1927587240934372, 'label': 'line'}, {'confidence': 0.03723859414458275, 'label': 'smiley face'}], 'label': 'power outlet'}"
+input_2020-09-24-16-07-43.png,"{'confidences': [{'confidence': 0.23749902844429016, 'label': 'power outlet'}, {'confidence': 0.1927587240934372, 'label': 'line'}, {'confidence': 0.03723859414458275, 'label': 'smiley face'}], 'label': 'power outlet'}"
+input_2020-09-24-16-07-44.png,"{'confidences': [{'confidence': 0.23749902844429016, 'label': 'power outlet'}, {'confidence': 0.1927587240934372, 'label': 'line'}, {'confidence': 0.03723859414458275, 'label': 'smiley face'}], 'label': 'power outlet'}"
